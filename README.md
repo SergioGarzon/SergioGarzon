@@ -6,7 +6,30 @@ I'm from Argentina 🇦🇷
 
 
  ```
-  console.log("Hello world!");
+`
+public class SergioGarzon {
+
+  private int yearsOfExperience;
+  private String languageOne;
+  private String languageTwo;
+  private boolean useFrameworkOfJavaScript;
+  private String[] frameworksLibraries;
+  private String[] othersTechnologies;
+
+  public SergioGarzon() {
+     this.yearsOfExperience = 6;
+     this.languageOne = "Java";
+     this.languageOne = "JavaScript";
+     this.useFrameworkOfJavaScript = true;
+     this.frameworksLibraries = {"Spring Framework", "Spring Boot", "Angular", "React"};
+     this.othersTechnologies = {"Unity 3D", "Godot", "Unreal Engine"};
+  }
+  
+  public static void main(String args[]) {
+      System.out.println("Thank you very much!");
+  }
+}
+`
 
  ``` 
 
