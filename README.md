@@ -8,22 +8,16 @@ I'm from Argentina 🇦🇷
 public class SergioGarzon {
 
   private int yearsOfExperience;
-  private String languageOne;
-  private String languageTwo;
-  private boolean useFrameworkOfJavaScript;
+  private String[] languagesExperience
   private String[] frameworksLibraries;
-  private boolean dbEngines;
-  private String[] dbEnginesNames;
+  private String[] dbEngines;
   private String[] othersTechnologies;
 
   public SergioGarzon() {
      this.yearsOfExperience = 6;
-     this.languageOne = "Java";
-     this.languageOne = "JavaScript";
-     this.useFrameworkOfJavaScript = true;
+     this.languagesExperience = {"Java", "JavaScript", "C#", "Python"};
      this.frameworksLibraries = {"Spring Framework", "Spring Boot", "Angular", "React"};
-     this.dbEngines = true;
-     this.dbEnginesNames = {"Microsoft SQL Server", "MySQL", "XAMPP", "PostgresSQL", "Aurora RDS", "ETC"};
+     this.dbEngines = {"Microsoft SQL Server", "MySQL", "XAMPP", "PostgresSQL", "Aurora RDS", "ETC"};
      this.othersTechnologies = {"Unity 3D", "Godot", "Unreal Engine"};
   }
   
