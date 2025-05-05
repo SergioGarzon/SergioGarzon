@@ -12,6 +12,8 @@ public class SergioGarzon {
   private String languageTwo;
   private boolean useFrameworkOfJavaScript;
   private String[] frameworksLibraries;
+  private boolean dbEngines;
+  private String[] dbEnginesNames;
   private String[] othersTechnologies;
 
   public SergioGarzon() {
@@ -20,6 +22,8 @@ public class SergioGarzon {
      this.languageOne = "JavaScript";
      this.useFrameworkOfJavaScript = true;
      this.frameworksLibraries = {"Spring Framework", "Spring Boot", "Angular", "React"};
+     this.dbEngines = true;
+     this.dbEnginesNames = {"Microsoft SQL Server", "MySQL", "XAMPP", "PostgresSQL", "Aurora RDS", "ETC"};
      this.othersTechnologies = {"Unity 3D", "Godot", "Unreal Engine"};
   }
   
