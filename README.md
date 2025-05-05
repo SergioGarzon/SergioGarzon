@@ -3,7 +3,7 @@
 My name is Sergio Garzon. I'm software and game developer.
 
 I'm from Argentina 🇦🇷
-
+<img width="5%" align="right" alt="Mona cat" src="https://github.com/Justineo/github-hovercard/blob/master/assets/spinner.gif" />
 ```Java
 public class SergioGarzon {
 
