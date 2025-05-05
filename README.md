@@ -1,5 +1,5 @@
 # Hi, welcome to my GitHub Profile  :wave: 
-<img width="5%" align="right" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/spinner.gif" />
+<img width="10%" align="right" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/spinner.gif" />
 
 My name is Sergio Garzon. I'm software and game developer.
 
@@ -28,3 +28,8 @@ public class SergioGarzon {
  ``` 
 
 Visit my LinkedIn profile: https://www.linkedin.com/in/sergio-gabriel-garzon/ :link:
+
+<br />
+
+<img width="35%" align="right" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/programmer.gif" />
+
