@@ -43,9 +43,9 @@ Visit my LinkedIn profile: https://www.linkedin.com/in/sergio-gabriel-garzon/ :l
 
 <table>
   <tr>
-    <td><img src="./Images/java.png" alt="Java" width="150%" height="150%" /></td>
-    <td><img src="./Images/javascript.png" alt="JavaScript"  width="150%" height="150%" /></td>
-    <td><img src="./Images/python.png" alt="Python" width="150%" height="150%" /></td>
+    <td><img src="./Images/java.png" alt="Java" width="100%" height="100%" /></td>
+    <td><img src="./Images/javascript.png" alt="JavaScript"  width="100%" height="100%" /></td>
+    <td><img src="./Images/python.png" alt="Python" width="100%" height="100%" /></td>
   </tr>
 </table>
 
