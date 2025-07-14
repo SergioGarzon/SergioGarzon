@@ -34,15 +34,18 @@ Visit my LinkedIn profile: https://www.linkedin.com/in/sergio-gabriel-garzon/ :l
 <img width="35%" align="left" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/programmer.gif" />
 <img width="25%" align="left" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/programmer2.gif" />
 
-<br />
+<br /><br />
 
-** Skills:
+## Skills:
+
+<br />
+<br />
 
 <table>
   <tr>
-    <td><img src="./Images/java.png" alt="Java" /></td>
-    <td><img src="./Images/javascript.png" alt="JavaScript" /></td>
-    <td><img src="./Images/python.png" alt="Python" /></td>
+    <td><img src="./Images/java.png" alt="Java" width="15%" height="15%" /></td>
+    <td><img src="./Images/javascript.png" alt="JavaScript"  width="15%" height="15%" /></td>
+    <td><img src="./Images/python.png" alt="Python" width="15%" height="15%" /></td>
   </tr>
 </table>
 
