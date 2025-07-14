@@ -29,12 +29,8 @@ public class SergioGarzon {
 
 Visit my LinkedIn profile: https://www.linkedin.com/in/sergio-gabriel-garzon/ :link:
 
-<br />
 
-<img width="35%" align="left" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/programmer.gif" />
-<img width="25%" align="left" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/programmer2.gif" />
-
-<br><br>
+<br>
 
 ## Skills:
 
@@ -49,3 +45,9 @@ Visit my LinkedIn profile: https://www.linkedin.com/in/sergio-gabriel-garzon/ :l
   </tr>
 </table>
 
+
+
+<br /><br>
+
+<img width="35%" align="left" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/programmer.gif" />
+<img width="25%" align="left" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/programmer2.gif" />
