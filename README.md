@@ -11,6 +11,7 @@ public class SergioGarzon {
   private String[] languagesExperience
   private String[] frameworksLibraries;
   private String[] dbEngines;
+  private String[] clouds;
   private String[] othersTechnologies;
 
   public SergioGarzon() {
@@ -18,6 +19,7 @@ public class SergioGarzon {
      this.languagesExperience = {"Java", "JavaScript", "C#", "Python"};
      this.frameworksLibraries = {"Spring Framework", "Spring Boot", "Angular", "React"};
      this.dbEngines = {"Microsoft SQL Server", "MySQL", "XAMPP", "PostgresSQL", "Aurora RDS", "ETC"};
+     this.clouds = {"Amazon Web Service AWS", "Google Cloud"};
      this.othersTechnologies = {"Unity 3D", "Godot", "Unreal Engine"};
   }
   
