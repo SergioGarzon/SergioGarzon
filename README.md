@@ -28,9 +28,6 @@ public class SergioGarzon {
 ![LinkedIn](./Images/linkedin.png)  
 Visit my LinkedIn profile: https://www.linkedin.com/in/sergio-gabriel-garzon/ :link:
 
-
-<br>
-
 ## Skills:    
 
 ### BackEnd:  
@@ -44,30 +41,17 @@ Visit my LinkedIn profile: https://www.linkedin.com/in/sergio-gabriel-garzon/ :l
 
 ![Android Studio](./Images/androidstudio.png)    
 
-## Databases:
+### Databases:
 
 ![Microsoft SQL Server](./Images/sqlserver.png)
 ![MySQL](./Images/mysqldb.png)
 
-<table>
-  <tr>
-    <td><img src="./Images/javascript.png" alt="JavaScript"  width="150px" height="150px" /></td>   
-    <td><img src="./Images/angular.png" alt="Angular"  width="150px" height="150px" /></td>   
-    <td><img src="./Images/reactjs.png" alt="ReactJS"  width="150px" height="150px" /></td>    
-  </tr>
-  <tr>        
-    <td><img src="./Images/microsoftsqlserver.png" alt="Microsoft SQL Server" width="150px" height="150px" /></td>
-    <td><img src="./Images/mysql.png" alt="MySQL" width="150px" height="150px" /></td>
-  </tr>
-  <tr>
-    <td><img src="./Images/unity3d.png" alt="Unidy 3D"  width="150px" height="150px" /></td>
-    <td><img src="./Images/unrealengine.png" alt="Unreal Engine" width="150px" height="150px" /></td>    
-  </tr>
-</table>
+### Cloud Computing:
+
+![Amazon Web Services](./Images/aws.png)
+
+# Thank you very much!!!
+
+![Gif Programmer](./programmer.gif)
 
 
-
-<br /><br>
-
-<img width="35%" align="left" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/programmer.gif" />
-<img width="25%" align="left" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/programmer2.gif" />
