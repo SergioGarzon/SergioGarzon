@@ -1,5 +1,5 @@
-# Hi, welcome to my GitHub Profile  :wave: 
-<img width="8%" align="right" alt="GitHub cat" src="https://github.com/SergioGarzon/SergioGarzon/blob/master/spinner.gif" />
+# Hi, welcome to my GitHub Profile  :wave:
+![GitHub](./spinner.gif)
 
 My name is Sergio Garzon. I'm software and game developer.
 
