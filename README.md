@@ -28,7 +28,13 @@ public class SergioGarzon {
 ![LinkedIn](./Images/linkedin.png)  
 Visit my LinkedIn profile: https://www.linkedin.com/in/sergio-gabriel-garzon/ :link:
 
-## Skills:    
+## Skills: 
+
+### FrontEnd:
+
+![JavaScript](./Images/javascriptlogo.png)
+![Angular](./Images/angularlogo.png)
+![React](./Images/reactlogo.png)
 
 ### BackEnd:  
 
@@ -49,6 +55,13 @@ Visit my LinkedIn profile: https://www.linkedin.com/in/sergio-gabriel-garzon/ :l
 ### Cloud Computing:
 
 ![Amazon Web Services](./Images/aws.png)
+![Google Cloud](./Images/googlecloudlogo.png)
+
+### Engines for video games:
+
+![Unity 3D](./Images/unity3d.png)
+![Unreal Engine](./Images/unrealengine.png)
+![Godot](./Images/godotlogo.png)
 
 # Thank you very much!!!
 
