@@ -8,11 +8,7 @@ I'm from Argentina 🇦🇷
 public class SergioGarzon {
 
   private int yearsOfExperience;
-  private String[] languagesExperience
-  private String[] frameworksLibraries;
-  private String[] dbEngines;
-  private String[] clouds;
-  private String[] othersTechnologies;
+  private String[] languagesExperience, frameworksLibraries, dbEngines, clouds, othersTechnologies;
 
   public SergioGarzon() {
      this.yearsOfExperience = 6;
@@ -29,23 +25,31 @@ public class SergioGarzon {
 }
  ``` 
 
+![LinkedIn](./Images/linkedin.png)  
 Visit my LinkedIn profile: https://www.linkedin.com/in/sergio-gabriel-garzon/ :link:
 
 
 <br>
 
-## Skills:
+## Skills:    
 
-<br>
-<br>
+### BackEnd:  
+
+![Java](./Images/java.png)
+![Spring Boot](./Images/spring%20boot.png)  
+![ExpressJS](./Images/expressjs.png)
+![NodeJS](./Images/nodejs.png)
+
+### Mobile:
+
+![Android Studio](./Images/androidstudio.png)    
+
+## Databases:
+
+![Microsoft SQL Server](./Images/sqlserver.png)
+![MySQL](./Images/mysqldb.png)
 
 <table>
-  <tr>
-    <td><img src="./Images/java.png" alt="Java" width="150px" height="150px" /></td>    
-    <td><img src="./Images/springboot.png" alt="SpringBoot" width="150px height="150px /></td>
-    <td><img src="./Images/android studio.png" alt="Android Studio" width="150px" height="150px" /></td>
-    <td><img src="./Images/python.png" alt="Python" width="150px" height="150px" /></td>
-  </tr>
   <tr>
     <td><img src="./Images/javascript.png" alt="JavaScript"  width="150px" height="150px" /></td>   
     <td><img src="./Images/angular.png" alt="Angular"  width="150px" height="150px" /></td>   
